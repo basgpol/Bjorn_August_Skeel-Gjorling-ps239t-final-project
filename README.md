@@ -39,5 +39,5 @@ List of files in the repo:
 
 ## More Information
 
-Note: It was not possible to upload the raw text data on all the transcripts scraped in 01.scraping.ipynb to Github due to a very large file size. The data can be reproduced by running the Jupyter Notebook yourselves. This project was created as an exam project for at graduate course at University of California, Berkeley. The course repo is available here: https://github.com/ribernhard/PS239T.
+Note: It was not possible to upload the raw text data on all the transcripts scraped in 01.scraping.ipynb to Github due to a very large file size. The data can be reproduced by running the Jupyter Notebook again. This project was created as an exam project for a graduate course (Introduction to Computational Tools for Social Science) at University of California, Berkeley. The course repo is available here: https://github.com/ribernhard/PS239T.
 
