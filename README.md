@@ -1,4 +1,4 @@
-# ps239t-final-project
+# Game Framing In The Danish Parliament
 Project detecting presence of Game Framing in Danish Parliamentary Debates since 2007
 
 ## Short Description
