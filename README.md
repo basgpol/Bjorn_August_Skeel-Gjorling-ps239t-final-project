@@ -30,12 +30,14 @@ List of files in the repo:
 
 1. 01.scraping.ipynb: Scrape transcripts of Danish parliamentary debates from the official website of the Danish Parliament and save the raw text data as a pickle-object (not possible to upload to github due to large filesize).
 2. 02.text_analysis.ipynb: Calculate the proportion of game frame words in each debate. Export the dataset to the file debate_game_frame.csv.
-2. 03.visualizations_and_findings.Rmd: Visualize the findings and conducts a statistical test. Results can be found in the Results directory.
+3. 03.visualizations_and_findings.Rmd: Visualize the findings and conducts a statistical test. Results can be found in the Results directory.
+4. 03.visualizations_and_findings.html: The previous Rmarkdown-file in HTML-format
 
 #### Results
 
-1. XX 
-2. XX 
+1. 01.cyclical_trend.jpg: Picture of the cyclical trend of Game Framing. 
+2. 02.time_to_closest_election.jpg: Plot of the linear relationship between Game Frame and time to closest parliamentary election.
+3. 03.regression_table.htm: The regression table in htm-format
 
 ## More Information
 
